@@ -1,0 +1,523 @@
+{
+  "groupProfiles": [
+    [
+      "DM3",
+      "Dhaka Metro",
+      "Explorer",
+      "19–24",
+      "SEC D–E",
+      6,
+      "Students and young workers. Daily life centers on study/work, friends, mobile use and careful allocation of limited personal money.",
+      "Success means earning capacity, parental security and continued progress. Family expectations create pressure.",
+      "Travel, Bangla/Hindi entertainment, short video, fashion content and peer observation shape interests and choices.",
+      "Discounts and price-quality balance matter. Online trust is mixed; purchases are adjusted within allowance or daily cash.",
+      "Smoking is woven into breaks, friendship and daily completion. Derby is the affordable mid-strength regular choice.",
+      "Odor, fast burn and hot/soft filter weaken an otherwise strong value proposition."
+    ],
+    [
+      "DM6",
+      "Dhaka Metro",
+      "Explorer",
+      "25–29",
+      "SEC D–E",
+      7,
+      "Early-career workers, small-business participants and job aspirants. Work pressure and long hours shape routines.",
+      "More income sources, respectable employment and business progress are central goals. Status is linked with recognition and achievement.",
+      "Mobile use, theatre, entertainment and accessible mid-priced brands/products matter more than exclusive luxury alone.",
+      "Budgeting and saving are explicit. Availability during travel or in rural areas is important.",
+      "Cigarettes mark breaks, relief and social connection. Derby wins through satisfaction, price, peer use and availability.",
+      "Filter-end softness/heat and odor are clear gaps; equal pricing opens premium trade-up."
+    ],
+    [
+      "RM5",
+      "Rajshahi Metro",
+      "Explorer",
+      "19–24",
+      "SEC D–E",
+      8,
+      "Mostly students with study, tea-stall, campus and friend-circle routines. Financial dependence on family is still visible.",
+      "Employment, income growth, side income, family repayment and social advancement define success; job scarcity creates anxiety.",
+      "Life-related films, games, music and social content support identification and escape. Shopping is mainly need-led.",
+      "Smoking spend is relatively protected even when other social expenditure is reduced.",
+      "Tea, adda and cigarettes form repeated daily rituals. Derby is the strongest satisfying option inside the student budget.",
+      "Persistent odor is the dominant social barrier; pack cannot compensate for product experience."
+    ],
+    [
+      "RM2",
+      "Rajshahi Metro",
+      "Image Seeker",
+      "25–29",
+      "SEC D–E",
+      7,
+      "Young working men with strong friendship networks and routines built around work, tea, travel and night-time socializing.",
+      "Brands are understood as markers of progress, respect and status. Economic realism remains central to everyday choice.",
+      "Brand symbolism, peer observation and interpersonal recommendation matter more than passive poster claims.",
+      "Pack versus single-stick purchase follows location, convenience and expected consumption; Derby's ubiquity reduces search effort.",
+      "Cigarettes provide completion, focus, relief, company and social bonding. Derby is habitual, affordable, strong and smoky.",
+      "Odor, soft filter and low-class/rural imagery create tension with status aspiration."
+    ]
+  ],
+  "themes": [
+    [
+      "F01",
+      "Family duty and upward mobility",
+      [
+        1,
+        1,
+        1,
+        1
+      ],
+      "Success is framed through earning, parental security, respectable work and continued progress.",
+      "Position improvement as practical progress and dependability, not distant luxury."
+    ],
+    [
+      "F02",
+      "Financial pressure shapes daily trade-offs",
+      [
+        1,
+        1,
+        1,
+        1
+      ],
+      "Allowances, savings, household contribution and unstable income make value calculations routine.",
+      "Protect affordability and communicate product value in concrete everyday terms."
+    ],
+    [
+      "F03",
+      "Friendship and adda organize life",
+      [
+        1,
+        1,
+        1,
+        1
+      ],
+      "Friends influence leisure, discovery, smoking initiation, brand trial and consumption frequency.",
+      "Use social proof and small-group trial mechanics."
+    ],
+    [
+      "F04",
+      "Mobile and entertainment are discovery spaces",
+      [
+        1,
+        1,
+        1,
+        1
+      ],
+      "Short video, drama, films, games, travel and fashion content shape attention and aspiration.",
+      "Use culturally familiar content environments, within applicable marketing restrictions."
+    ],
+    [
+      "F05",
+      "Shopping is pragmatic and value-led",
+      [
+        1,
+        1,
+        1,
+        1
+      ],
+      "Need, discount, accessibility and trust often matter more than formal brand loyalty in general shopping.",
+      "Make quality proof visible and easy to verify at point of purchase."
+    ],
+    [
+      "F06",
+      "Brands signal progress and social standing",
+      [
+        1,
+        1,
+        1,
+        1
+      ],
+      "Premium products can change how participants expect others to see and treat them.",
+      "Improve Derby's social acceptability without losing its everyday accessibility."
+    ],
+    [
+      "F07",
+      "Smoking is embedded in routine",
+      [
+        1,
+        1,
+        1,
+        1
+      ],
+      "Morning, meals, tea, work breaks, travel, waiting and night-time moments trigger use.",
+      "Understand Derby as a ritual product, not an occasional indulgence."
+    ],
+    [
+      "F08",
+      "Smoking provides relief, focus and completion",
+      [
+        1,
+        1,
+        1,
+        1
+      ],
+      "Participants describe calm, recharge, decision support, concentration and a sense of completion.",
+      "Any product change must preserve the felt satisfaction attached to these moments."
+    ],
+    [
+      "F09",
+      "Harm and social cost are recognized",
+      [
+        1,
+        1,
+        1,
+        1
+      ],
+      "Health concerns, odor and discomfort to non-smokers are understood, but habit often overrides them.",
+      "Reduce avoidable social and sensory costs; do not claim health benefits."
+    ],
+    [
+      "F10",
+      "Strong regular identity rejects lightness",
+      [
+        1,
+        1,
+        1,
+        1
+      ],
+      "Red/regular/strong cigarettes are associated with satisfaction; white/light options often feel insufficient.",
+      "Keep Derby's strong regular character as a product guardrail."
+    ],
+    [
+      "F11",
+      "Derby owns affordable satisfaction",
+      [
+        1,
+        1,
+        1,
+        1
+      ],
+      "Price, strength, smoke and frequent-use economics combine into one value equation.",
+      "Defend value-per-stick rather than competing on low price alone."
+    ],
+    [
+      "F12",
+      "Peers, availability and habit sustain Derby",
+      [
+        1,
+        1,
+        1,
+        1
+      ],
+      "Friends and local availability create entry; repeated physical fit creates inertia.",
+      "Maintain distribution and use credible peer/retailer product experience."
+    ],
+    [
+      "F13",
+      "Odor is the largest product vulnerability",
+      [
+        1,
+        1,
+        1,
+        1
+      ],
+      "Lingering smell limits comfort, acceptance by others and use in visible settings.",
+      "Prioritize odor reduction while preserving strength, smoke and taste."
+    ],
+    [
+      "F14",
+      "Filter and burn execution signal quality",
+      [
+        1,
+        1,
+        1,
+        1
+      ],
+      "Hot/soft filters, peeling cover, quick burn, paper and ash stability recur as quality cues.",
+      "Improve end-of-stick filter integrity and burn consistency."
+    ],
+    [
+      "F15",
+      "Price parity encourages trade-up",
+      [
+        1,
+        1,
+        1,
+        1
+      ],
+      "When the economic gap narrows, Star and premium brands gain on quality and status.",
+      "Track relative price gaps and add a clear quality reason to remain with Derby."
+    ],
+    [
+      "F16",
+      "Everyday loyalty has a status gap",
+      [
+        1,
+        0,
+        1,
+        1
+      ],
+      "Derby suits self/everyday use, while premium brands can be preferred for campus, guests or senior company.",
+      "Address odor and visible quality cues to improve occasion stretch."
+    ],
+    [
+      "F17",
+      "Product proof converts better than pack alone",
+      [
+        1,
+        1,
+        1,
+        1
+      ],
+      "Pack can attract attention, but peers, retailers and actual product performance determine repeat use.",
+      "Lead sampling with familiar satisfaction, better filter and less odor."
+    ],
+    [
+      "F18",
+      "Derby communication is under-recognized",
+      [
+        1,
+        0,
+        1,
+        1
+      ],
+      "Competitor or retailer activity is recalled more readily than Derby communication in three groups.",
+      "Build retailer visibility around demonstrable product improvements."
+    ]
+  ],
+  "contextEvidence": [
+    [
+      "DM3",
+      "Daily life",
+      "A",
+      "row 203",
+      "কলেজে যাই… ক্লাস… বন্ধুবান্ধবের সাথে আড্ডা… লাইব্রেরিতে গিয়ে কিছু সময়।",
+      "College, classes, friends and library time organize the day.",
+      "Study and peer interaction are the main everyday context."
+    ],
+    [
+      "DM3",
+      "Dreams and duty",
+      "B/C",
+      "rows 490–491",
+      "মাকে… চাওয়া মাত্রই দিতে পারবো… বাবা-মা বিনা টেনশনে থাকবে।",
+      "Success means being able to provide immediately and remove parents' financial worry.",
+      "Upward mobility is measured through family security."
+    ],
+    [
+      "DM3",
+      "Media and inspiration",
+      "C",
+      "row 786",
+      "ফ্যাশনের কন্টেন্ট… যেটা ভালো লাগে… বাজারে গেলে নিজের মতো করে নিই।",
+      "Fashion content supplies pieces of inspiration that are recombined personally.",
+      "Digital content influences style without creating simple imitation."
+    ],
+    [
+      "DM3",
+      "Shopping/value",
+      "F/B",
+      "rows 676, 691",
+      "ডিসকাউন্ট… ১০০০ টাকার জিনিস ৪০০–৫০০… অনলাইনের উপর বিশ্বাস উঠে গেছে।",
+      "Discounts attract, while a poor online purchase damaged trust.",
+      "Value and trust jointly shape purchase."
+    ],
+    [
+      "DM3",
+      "Personal budget",
+      "E",
+      "rows 2409–2427",
+      "মাসে ৩০০০–৪০০০… একদিকে কম খরচ করলে অন্য প্রয়োজন মিলে যায়।",
+      "A limited monthly allowance is reallocated between needs.",
+      "Daily consumption competes inside a fixed personal budget."
+    ],
+    [
+      "DM6",
+      "Work context",
+      "F",
+      "row 168",
+      "লাইব্রেরিতে লাইব্রেরিয়ান… স্টুডেন্টরা জব প্রিপারেশন নেয়।",
+      "Works as a librarian where graduates prepare for jobs.",
+      "Employment aspiration is close to daily experience."
+    ],
+    [
+      "DM6",
+      "Dreams",
+      "A/F",
+      "rows 424, 450",
+      "আর্নিং সোর্স বাড়াবো… বাংলাদেশ ব্যাংকের এডি… সমাজের চোখে সম্মান।",
+      "Increase income sources and reach a respected professional role.",
+      "Income and recognition are linked aspirations."
+    ],
+    [
+      "DM6",
+      "Brand meaning",
+      "G/B",
+      "rows 1360–1369",
+      "ব্র্যান্ড ভ্যালু… মানুষ ভাবে ছেলেটার জিনিস… ভালো লাগে।",
+      "Recognized brands can make others view the user differently.",
+      "Status is a real component of brand choice."
+    ],
+    [
+      "DM6",
+      "Accessible value",
+      "F",
+      "row 1179",
+      "প্রাইস রেঞ্জ হাই না… মিডিয়াম… সবার কাছে বেয়ার করা যায়।",
+      "A medium price that many can bear is viewed positively.",
+      "Accessibility is valued beyond the cigarette category."
+    ],
+    [
+      "DM6",
+      "Smoking moment",
+      "E",
+      "row 2281",
+      "রাতে… রিল্যাক্স… দিনে… কাজের প্রেসার কমানোর কারণে।",
+      "Night smoking is for relaxation; daytime smoking reduces work pressure.",
+      "Consumption serves different functional-emotional roles by moment."
+    ],
+    [
+      "DM6",
+      "Consumption planning",
+      "F",
+      "row 2152",
+      "সিগারেট খাওয়ার জন্য… নির্দিষ্ট সময়… বের করতে হবে।",
+      "Time is deliberately made for a cigarette break.",
+      "Smoking is scheduled into the workday."
+    ],
+    [
+      "RM5",
+      "Student routine",
+      "E",
+      "rows 233–247",
+      "ক্লাসের গ্যাপে চা আর বিড়ি… বন্ধুদের সাথে আড্ডা… কার্ড খেলি।",
+      "Tea, cigarettes, friends and cards repeat through the student day.",
+      "Smoking is integrated into campus and social routine."
+    ],
+    [
+      "RM5",
+      "Family and work",
+      "A",
+      "row 540",
+      "বাবা-মা কষ্ট করে চালায়… রেজাল্ট ভালো… চাকরি হয়।",
+      "Parental sacrifice motivates study and job achievement.",
+      "Family duty anchors aspiration."
+    ],
+    [
+      "RM5",
+      "Success/status",
+      "G",
+      "row 626",
+      "সোশ্যাল স্ট্যাটাস আপ… প্রয়োজনীয় পণ্য কিনতে টাকার কথা ভাবতে হবে না।",
+      "Progress means higher social status and buying necessities without price worry.",
+      "Economic freedom and social advancement are paired."
+    ],
+    [
+      "RM5",
+      "Challenges",
+      "B/A",
+      "rows 643, 651",
+      "চাকরির প্রতিদ্বন্দ্বিতা বাড়ছে… বাবা-মা বলে কিছু একটা কর।",
+      "Job competition and family pressure create anxiety.",
+      "Financial uncertainty intensifies value sensitivity."
+    ],
+    [
+      "RM5",
+      "Shopping",
+      "B/C",
+      "rows 720, 737",
+      "নেসেসারি হলে কিনি… ব্র্যান্ডে কখনো যাওয়া হয় নাই।",
+      "Purchases are need-led; branded stores may not be part of experience.",
+      "Practical access matters more than formal retail prestige."
+    ],
+    [
+      "RM5",
+      "Spending priority",
+      "D",
+      "rows 2004–2007",
+      "ক্যাম্পাসের এক্সট্রা খরচ কমে… সিগারেট কমে না।",
+      "Other campus spending falls, but cigarette consumption does not.",
+      "Cigarette spend is protected within a constrained budget."
+    ],
+    [
+      "RM5",
+      "Social cost",
+      "A",
+      "row 1225",
+      "মুখ থেকে গন্ধ… ভালো লাগতেছে না… দূরে গিয়ে স্মোক।",
+      "Non-smokers object to odor, forcing distance or masking.",
+      "Odor reduces social acceptability."
+    ],
+    [
+      "RM5",
+      "Strength need",
+      "F",
+      "row 1416",
+      "লাইট সিগারেট… কাজ করলো না… কড়া সিগারেট হলে মনে হয় নিকোটিন আছে।",
+      "Light cigarettes feel ineffective; strong cigarettes feel functional.",
+      "Strong delivery is a category-level need."
+    ],
+    [
+      "RM2",
+      "Brand and status",
+      "Group",
+      "paragraphs 923–970",
+      "ব্র্যান্ড… আমাকে অন্যভাবে দেখবে… নিজের স্ট্যাটাস বাড়ে।",
+      "Brands are expected to change how others see the user and raise status.",
+      "Image-seeking aspiration sits behind product symbolism."
+    ],
+    [
+      "RM2",
+      "Routine",
+      "Group",
+      "paragraphs 1305–1311",
+      "ঘুমাতে যাওয়ার আগে এবং ঘুম থেকে উঠার পর… না খেলে মিসিং লাগে।",
+      "The cigarette before sleep and after waking feels essential.",
+      "Smoking brackets the day as a ritual."
+    ],
+    [
+      "RM2",
+      "Work and stress",
+      "Group",
+      "paragraphs 1353–1388",
+      "কাজে মনোযোগ… চার্জ চলে আসে… ডিসিশন নিতে পারি।",
+      "Smoking is described as improving focus, restoring energy and aiding decisions.",
+      "Participants attach performance and coping benefits to the ritual."
+    ],
+    [
+      "RM2",
+      "Social role",
+      "Group",
+      "paragraphs 1395–1397",
+      "স্মোকিং ছাড়া আড্ডা জমে না… আড্ডার মেইন অংশ।",
+      "Adda does not feel complete without smoking.",
+      "Cigarettes function as social infrastructure."
+    ],
+    [
+      "RM2",
+      "Emotional role",
+      "Group",
+      "paragraph 1410",
+      "মানসিক শান্তি দেয়… না থাকলে বিরক্ত এবং একা লাগে।",
+      "It provides mental calm; absence creates irritation and loneliness.",
+      "Habit combines emotional comfort and companionship."
+    ],
+    [
+      "RM2",
+      "Brand image",
+      "Group",
+      "paragraphs 2083–2090",
+      "নিম্নবিত্ত… মিডেল ক্লাসে বেশি খায়… জনপ্রিয়তা বেশি।",
+      "Derby carries lower-/middle-class imagery but very high popularity.",
+      "Reach and familiarity coexist with a status ceiling."
+    ],
+    [
+      "RM2",
+      "Marketing credibility",
+      "Group",
+      "paragraphs 2469–2472",
+      "প্রোডাক্ট ভালো হলে বাজারে চলবে… ডার্বি ছাড়া তৃপ্তি আসে না।",
+      "Participants say product quality, not activity alone, explains market strength.",
+      "Communication must be backed by recognizable product delivery."
+    ],
+    [
+      "RM2",
+      "Trust and influence",
+      "Group",
+      "paragraphs 2595–2630",
+      "অথেন্টিক বোঝা যায়… ইনফ্লুয়েন্সার দরকার… শাকিব খান/কাবিলা।",
+      "Certification signals authenticity; familiar entertainers are suggested as endorsers.",
+      "Trust and cultural familiarity can support communication."
+    ]
+  ]
+}

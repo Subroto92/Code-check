@@ -1,0 +1,706 @@
+[
+  {
+    "group": "DM3",
+    "section": "Intro",
+    "location": "rows 3–189",
+    "records": 187,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM3",
+    "section": "Daily routine",
+    "location": "rows 190–380",
+    "records": 191,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM3",
+    "section": "Dreams",
+    "location": "rows 381–529",
+    "records": 149,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM3",
+    "section": "Entertainment",
+    "location": "rows 530–638",
+    "records": 109,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM3",
+    "section": "Shopping",
+    "location": "rows 639–691",
+    "records": 53,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM3",
+    "section": "Media habit",
+    "location": "rows 692–1001",
+    "records": 310,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM3",
+    "section": "Perfect life",
+    "location": "rows 1002–1079",
+    "records": 78,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM3",
+    "section": "Word game",
+    "location": "rows 1080–1139",
+    "records": 60,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM3",
+    "section": "Category understanding",
+    "location": "rows 1140–2354",
+    "records": 1215,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM3",
+    "section": "Collecting money",
+    "location": "rows 2355–2462",
+    "records": 108,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM3",
+    "section": "Consumsion journey",
+    "location": "rows 2463–2679",
+    "records": 217,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM3",
+    "section": "Appeal",
+    "location": "rows 2680–2694",
+    "records": 15,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM3",
+    "section": "Alternative brand",
+    "location": "rows 2695–2777",
+    "records": 83,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM3",
+    "section": "Rejected brand",
+    "location": "rows 2778–2798",
+    "records": 21,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM3",
+    "section": "Purchase indicators",
+    "location": "rows 2799–2849",
+    "records": 51,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM3",
+    "section": "Brand persona",
+    "location": "rows 2850–2881",
+    "records": 32,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM3",
+    "section": "Celebrity association",
+    "location": "rows 2882–2919",
+    "records": 38,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM3",
+    "section": "Pack",
+    "location": "rows 2920–2983",
+    "records": 64,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM3",
+    "section": "Stimulus",
+    "location": "rows 2984–3015",
+    "records": 32,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM3",
+    "section": "Prices",
+    "location": "rows 3016–3062",
+    "records": 47,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM3",
+    "section": "Improvement",
+    "location": "rows 3063–3066",
+    "records": 4,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM3",
+    "section": "Consupmtion habit",
+    "location": "rows 3067–3111",
+    "records": 45,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM3",
+    "section": "Promotional activities",
+    "location": "rows 3112–3191",
+    "records": 80,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM3",
+    "section": "Best design",
+    "location": "rows 3192–3317",
+    "records": 126,
+    "included": "Yes",
+    "source": "Checked_Dm3_EGD_Renshe_BD00239_Dhaka Metro_Male_D.E_19-24yrs_Derby User_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM6",
+    "section": "Intro",
+    "location": "rows 2–278",
+    "records": 277,
+    "included": "Yes",
+    "source": "Checked_DM6_EGDs_Renshe_BD00239_Dhaka Metro_Male_25-29yrs_3.30pm_D.E._Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM6",
+    "section": "Daily Routine",
+    "location": "rows 279–413",
+    "records": 135,
+    "included": "Yes",
+    "source": "Checked_DM6_EGDs_Renshe_BD00239_Dhaka Metro_Male_25-29yrs_3.30pm_D.E._Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM6",
+    "section": "Dreams",
+    "location": "rows 414–572",
+    "records": 159,
+    "included": "Yes",
+    "source": "Checked_DM6_EGDs_Renshe_BD00239_Dhaka Metro_Male_25-29yrs_3.30pm_D.E._Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM6",
+    "section": "Concern",
+    "location": "rows 573–652",
+    "records": 80,
+    "included": "Yes",
+    "source": "Checked_DM6_EGDs_Renshe_BD00239_Dhaka Metro_Male_25-29yrs_3.30pm_D.E._Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM6",
+    "section": "Media habit",
+    "location": "rows 653–713",
+    "records": 61,
+    "included": "Yes",
+    "source": "Checked_DM6_EGDs_Renshe_BD00239_Dhaka Metro_Male_25-29yrs_3.30pm_D.E._Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM6",
+    "section": "Touch points",
+    "location": "rows 714–898",
+    "records": 185,
+    "included": "Yes",
+    "source": "Checked_DM6_EGDs_Renshe_BD00239_Dhaka Metro_Male_25-29yrs_3.30pm_D.E._Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM6",
+    "section": "Media Habit",
+    "location": "rows 899–1221",
+    "records": 323,
+    "included": "Yes",
+    "source": "Checked_DM6_EGDs_Renshe_BD00239_Dhaka Metro_Male_25-29yrs_3.30pm_D.E._Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM6",
+    "section": "Shopping/touch point",
+    "location": "rows 1222–1311",
+    "records": 90,
+    "included": "Yes",
+    "source": "Checked_DM6_EGDs_Renshe_BD00239_Dhaka Metro_Male_25-29yrs_3.30pm_D.E._Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM6",
+    "section": "Lifestyle perception",
+    "location": "rows 1312–1428",
+    "records": 117,
+    "included": "Yes",
+    "source": "Checked_DM6_EGDs_Renshe_BD00239_Dhaka Metro_Male_25-29yrs_3.30pm_D.E._Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM6",
+    "section": "Word game",
+    "location": "rows 1429–1481",
+    "records": 53,
+    "included": "Yes",
+    "source": "Checked_DM6_EGDs_Renshe_BD00239_Dhaka Metro_Male_25-29yrs_3.30pm_D.E._Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM6",
+    "section": "Category understanding",
+    "location": "rows 1482–2284",
+    "records": 776,
+    "included": "Yes",
+    "source": "Checked_DM6_EGDs_Renshe_BD00239_Dhaka Metro_Male_25-29yrs_3.30pm_D.E._Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM6",
+    "section": "Purchase",
+    "location": "rows 2204–2380",
+    "records": 123,
+    "included": "Yes",
+    "source": "Checked_DM6_EGDs_Renshe_BD00239_Dhaka Metro_Male_25-29yrs_3.30pm_D.E._Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM6",
+    "section": "Consumption journey",
+    "location": "rows 2381–2640",
+    "records": 260,
+    "included": "Yes",
+    "source": "Checked_DM6_EGDs_Renshe_BD00239_Dhaka Metro_Male_25-29yrs_3.30pm_D.E._Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM6",
+    "section": "Selection between brands",
+    "location": "rows 2641–2677",
+    "records": 37,
+    "included": "Yes",
+    "source": "Checked_DM6_EGDs_Renshe_BD00239_Dhaka Metro_Male_25-29yrs_3.30pm_D.E._Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM6",
+    "section": "Aspiration",
+    "location": "rows 2678–2728",
+    "records": 51,
+    "included": "Yes",
+    "source": "Checked_DM6_EGDs_Renshe_BD00239_Dhaka Metro_Male_25-29yrs_3.30pm_D.E._Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM6",
+    "section": "Rejections",
+    "location": "rows 2729–2759",
+    "records": 31,
+    "included": "Yes",
+    "source": "Checked_DM6_EGDs_Renshe_BD00239_Dhaka Metro_Male_25-29yrs_3.30pm_D.E._Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM6",
+    "section": "Uniqueness",
+    "location": "rows 2760–2848",
+    "records": 89,
+    "included": "Yes",
+    "source": "Checked_DM6_EGDs_Renshe_BD00239_Dhaka Metro_Male_25-29yrs_3.30pm_D.E._Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM6",
+    "section": "Strength-weakness",
+    "location": "rows 2849–3289",
+    "records": 441,
+    "included": "Yes",
+    "source": "Checked_DM6_EGDs_Renshe_BD00239_Dhaka Metro_Male_25-29yrs_3.30pm_D.E._Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM6",
+    "section": "Information",
+    "location": "rows 3290–3317",
+    "records": 28,
+    "included": "Yes",
+    "source": "Checked_DM6_EGDs_Renshe_BD00239_Dhaka Metro_Male_25-29yrs_3.30pm_D.E._Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM6",
+    "section": "Promotions",
+    "location": "rows 3318–3428",
+    "records": 111,
+    "included": "Yes",
+    "source": "Checked_DM6_EGDs_Renshe_BD00239_Dhaka Metro_Male_25-29yrs_3.30pm_D.E._Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM6",
+    "section": "Purchase intension",
+    "location": "rows 3429–3537",
+    "records": 109,
+    "included": "Yes",
+    "source": "Checked_DM6_EGDs_Renshe_BD00239_Dhaka Metro_Male_25-29yrs_3.30pm_D.E._Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "DM6",
+    "section": "Best design",
+    "location": "rows 3538–3619",
+    "records": 82,
+    "included": "Yes",
+    "source": "Checked_DM6_EGDs_Renshe_BD00239_Dhaka Metro_Male_25-29yrs_3.30pm_D.E._Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Intro",
+    "location": "rows 2–183",
+    "records": 182,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Phychography",
+    "location": "rows 184–371",
+    "records": 188,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Touch point",
+    "location": "rows 372–436",
+    "records": 65,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Dreams",
+    "location": "rows 437–628",
+    "records": 192,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Challenges",
+    "location": "rows 629–658",
+    "records": 30,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Entertainment",
+    "location": "rows 659–715",
+    "records": 57,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Shopping",
+    "location": "rows 716–749",
+    "records": 34,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Media behaviour",
+    "location": "rows 750–921",
+    "records": 172,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Aspirations",
+    "location": "rows 922–1125",
+    "records": 204,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Word game",
+    "location": "rows 1126–1151",
+    "records": 26,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Category Understanding",
+    "location": "rows 1152–1965",
+    "records": 619,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Smoker persona",
+    "location": "rows 1302–1496",
+    "records": 195,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Spending",
+    "location": "rows 1966–2009",
+    "records": 44,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Brand Journey",
+    "location": "rows 2010–2334",
+    "records": 325,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Aspirational brand",
+    "location": "rows 2335–2391",
+    "records": 57,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Alternative brand",
+    "location": "rows 2392–2422",
+    "records": 31,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Rejection",
+    "location": "rows 2423–2445",
+    "records": 23,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Uniqueness",
+    "location": "rows 2446–2506",
+    "records": 61,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Category understanding",
+    "location": "rows 2507–2630",
+    "records": 124,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Brand persona",
+    "location": "rows 2631–2725",
+    "records": 95,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Celebrity",
+    "location": "rows 2726–2744",
+    "records": 19,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Strength-Weakness",
+    "location": "rows 2745–2775",
+    "records": 31,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Name",
+    "location": "rows 2776–2808",
+    "records": 33,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Pack",
+    "location": "rows 2809–2964",
+    "records": 156,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Stick",
+    "location": "rows 2965–3021",
+    "records": 57,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Price",
+    "location": "rows 3022–3200",
+    "records": 179,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Awareness",
+    "location": "rows 3201–3231",
+    "records": 31,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Campaign",
+    "location": "rows 3232–3276",
+    "records": 45,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Trying intension",
+    "location": "rows 3277–3448",
+    "records": 172,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM5",
+    "section": "Best quality",
+    "location": "rows 3449–3527",
+    "records": 79,
+    "included": "Yes",
+    "source": "Checked_RM5_EGD_Renshe_BD00239_25.9.2026_10.30am_Rajshahi Metro_Male_D.E_19-24yrs_Derby User_Explorer_Subroto_LK.xlsx"
+  },
+  {
+    "group": "RM2",
+    "section": "Introduction and life context",
+    "location": "paragraphs 0–360",
+    "records": null,
+    "included": "Yes",
+    "source": "RM2_EGD_Renshe_BD00239_24.9.2026_11.00am_Rajshahi Metro_Male_D.E_25-29yrs_Derby User_Image seeker_Subroto.mp3 (244.03 MB).docx"
+  },
+  {
+    "group": "RM2",
+    "section": "Dreams, success and challenges",
+    "location": "paragraphs 361–660",
+    "records": null,
+    "included": "Yes",
+    "source": "RM2_EGD_Renshe_BD00239_24.9.2026_11.00am_Rajshahi Metro_Male_D.E_25-29yrs_Derby User_Image seeker_Subroto.mp3 (244.03 MB).docx"
+  },
+  {
+    "group": "RM2",
+    "section": "Entertainment, media and shopping",
+    "location": "paragraphs 661–922",
+    "records": null,
+    "included": "Yes",
+    "source": "RM2_EGD_Renshe_BD00239_24.9.2026_11.00am_Rajshahi Metro_Male_D.E_25-29yrs_Derby User_Image seeker_Subroto.mp3 (244.03 MB).docx"
+  },
+  {
+    "group": "RM2",
+    "section": "Brand meaning and status",
+    "location": "paragraphs 923–1016",
+    "records": null,
+    "included": "Yes",
+    "source": "RM2_EGD_Renshe_BD00239_24.9.2026_11.00am_Rajshahi Metro_Male_D.E_25-29yrs_Derby User_Image seeker_Subroto.mp3 (244.03 MB).docx"
+  },
+  {
+    "group": "RM2",
+    "section": "Category associations and smoker meanings",
+    "location": "paragraphs 1017–1269",
+    "records": null,
+    "included": "Yes",
+    "source": "RM2_EGD_Renshe_BD00239_24.9.2026_11.00am_Rajshahi Metro_Male_D.E_25-29yrs_Derby User_Image seeker_Subroto.mp3 (244.03 MB).docx"
+  },
+  {
+    "group": "RM2",
+    "section": "Consumption moments, routines and needs",
+    "location": "paragraphs 1270–1450",
+    "records": null,
+    "included": "Yes",
+    "source": "RM2_EGD_Renshe_BD00239_24.9.2026_11.00am_Rajshahi Metro_Male_D.E_25-29yrs_Derby User_Image seeker_Subroto.mp3 (244.03 MB).docx"
+  },
+  {
+    "group": "RM2",
+    "section": "Purchase pattern and Derby journey",
+    "location": "paragraphs 1451–1680",
+    "records": null,
+    "included": "Yes",
+    "source": "RM2_EGD_Renshe_BD00239_24.9.2026_11.00am_Rajshahi Metro_Male_D.E_25-29yrs_Derby User_Image seeker_Subroto.mp3 (244.03 MB).docx"
+  },
+  {
+    "group": "RM2",
+    "section": "Occasional brands, aspiration and social use",
+    "location": "paragraphs 1681–1801",
+    "records": null,
+    "included": "Yes",
+    "source": "RM2_EGD_Renshe_BD00239_24.9.2026_11.00am_Rajshahi Metro_Male_D.E_25-29yrs_Derby User_Image seeker_Subroto.mp3 (244.03 MB).docx"
+  },
+  {
+    "group": "RM2",
+    "section": "Product improvement, fallback and rejection",
+    "location": "paragraphs 1802–2006",
+    "records": null,
+    "included": "Yes",
+    "source": "RM2_EGD_Renshe_BD00239_24.9.2026_11.00am_Rajshahi Metro_Male_D.E_25-29yrs_Derby User_Image seeker_Subroto.mp3 (244.03 MB).docx"
+  },
+  {
+    "group": "RM2",
+    "section": "Derby image, persona, name, pack and stick",
+    "location": "paragraphs 2007–2333",
+    "records": null,
+    "included": "Yes",
+    "source": "RM2_EGD_Renshe_BD00239_24.9.2026_11.00am_Rajshahi Metro_Male_D.E_25-29yrs_Derby User_Image seeker_Subroto.mp3 (244.03 MB).docx"
+  },
+  {
+    "group": "RM2",
+    "section": "Price, product experience and ratings",
+    "location": "paragraphs 2334–2428",
+    "records": null,
+    "included": "Yes",
+    "source": "RM2_EGD_Renshe_BD00239_24.9.2026_11.00am_Rajshahi Metro_Male_D.E_25-29yrs_Derby User_Image seeker_Subroto.mp3 (244.03 MB).docx"
+  },
+  {
+    "group": "RM2",
+    "section": "Awareness, promotion, trial and best quality",
+    "location": "paragraphs 2429–2634",
+    "records": null,
+    "included": "Yes",
+    "source": "RM2_EGD_Renshe_BD00239_24.9.2026_11.00am_Rajshahi Metro_Male_D.E_25-29yrs_Derby User_Image seeker_Subroto.mp3 (244.03 MB).docx"
+  }
+]

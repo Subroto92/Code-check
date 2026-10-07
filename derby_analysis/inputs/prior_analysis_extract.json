@@ -1,0 +1,344 @@
+{
+  "evidence": [
+    [
+      "DM3",
+      "Entry/value",
+      "F",
+      "2555–2557",
+      "ডার্বিটা খাইলে… বুকে অতটা চাপ পড়ে না…",
+      "With Derby, the chest does not feel as much pressure.",
+      "Star-to-Derby movement can be driven by easier physical delivery."
+    ],
+    [
+      "DM3",
+      "Entry/value",
+      "E",
+      "2580",
+      "লাকির দাম… বাড়তে বাড়তে… ডার্বি পাঁচ টাকা… বাজেটের মধ্যে।",
+      "Lucky's price kept rising; Derby at five taka fitted the budget.",
+      "Price inflation creates down-trade entry, but acceptable product delivery is still required."
+    ],
+    [
+      "DM3",
+      "Price/value",
+      "D",
+      "2645",
+      "৫০ টাকা দিয়ে… ডার্বি… ছয়টা… টাকা বাঁচানো।",
+      "For fifty taka, Derby gives about six sticks—saving money.",
+      "Visible stick-count value is part of Derby's economic appeal."
+    ],
+    [
+      "DM3",
+      "Weakness",
+      "D/F",
+      "2654–2662",
+      "তাড়াতাড়ি পুড়ে যায়… ফিল্টার গরম/নরম হয়ে যায়… ঠোঁট কালো।",
+      "It burns quickly; the filter becomes hot/soft; there is a lip-darkening concern.",
+      "Burn and filter execution are actionable product weaknesses."
+    ],
+    [
+      "DM3",
+      "Core equity",
+      "A",
+      "2809–2813",
+      "একদম খুব কড়াও না… নরমালও না… মিড পজিশনে।",
+      "Neither very harsh nor light; it sits in the middle.",
+      "Derby's preferred strength is a balanced middle—not 'light'."
+    ],
+    [
+      "DM3",
+      "Choice criteria",
+      "Group",
+      "2820–2828",
+      "দাম, কড়া, গন্ধ, ফিল্টার, প্যাকেট।",
+      "Price, strength, odor, filter and pack.",
+      "The group uses a multi-cue preference hierarchy led by value and sensory delivery."
+    ],
+    [
+      "DM3",
+      "Price risk",
+      "C",
+      "3035–3050",
+      "ডার্বি ১০ টাকা হলে… কম দামের রয়্যালস…",
+      "If Derby becomes ten taka, a cheaper Royals becomes relevant.",
+      "A large isolated price rise can break habit and prompt down-trade."
+    ],
+    [
+      "DM3",
+      "Activation",
+      "Group",
+      "3097–3111",
+      "ডার্বির মার্কেটিং দেখি না… দোকানদার ট্রাই করালে…",
+      "Derby marketing is not noticed; retailer-enabled trial can work.",
+      "Retail presence and guided trial can close the communication gap."
+    ],
+    [
+      "DM6",
+      "Entry/value",
+      "B",
+      "2534",
+      "রয়্যালসের চেয়ে ডার্বিতে তৃপ্তি বেশি, দামের মধ্যেও।",
+      "Derby gives more satisfaction than Royals while remaining within price.",
+      "Derby is not chosen on price alone; satisfaction justifies the spend."
+    ],
+    [
+      "DM6",
+      "Core equity",
+      "C",
+      "2536–2541",
+      "ডার্বি… কড়ার জন্য… দামের জন্য।",
+      "Derby is chosen for its strength and price.",
+      "Strength-price fit is the central proposition."
+    ],
+    [
+      "DM6",
+      "Weakness",
+      "B/D",
+      "2555–2568",
+      "শেষে ফিল্টার গরম ও নরম হয়… গন্ধ কমানো দরকার; কড়া ও দাম ঠিক।",
+      "The filter gets hot/soft near the end; odor should reduce, while strength and price are right.",
+      "Fix execution without disturbing core equity."
+    ],
+    [
+      "DM6",
+      "Habit",
+      "D",
+      "2625–2629",
+      "অন্য সিগারেট খেলে গলায় সমস্যা হয়… ডার্বিতে অভ্যাস।",
+      "Other cigarettes cause throat discomfort; Derby has become habitual.",
+      "Habit is partly a learned physical fit."
+    ],
+    [
+      "DM6",
+      "Price parity",
+      "D/C",
+      "2649–2662",
+      "সব একই দাম হলে… গোল্ড লিফ/বেনসন/মার্লবোরো…",
+      "If all brands cost the same, premium alternatives become preferable.",
+      "Current loyalty contains an economic component that disappears at parity."
+    ],
+    [
+      "DM6",
+      "Social pathway",
+      "D",
+      "2499–2501",
+      "বন্ধুরা সবাই ডার্বি খেত… শেয়ার করতে করতে বদল।",
+      "Friends all smoked Derby; sharing helped create the switch.",
+      "Peer networks are a conversion channel."
+    ],
+    [
+      "RM5",
+      "Value",
+      "E",
+      "2092",
+      "বাজেট অনুযায়ী সিগারেটের মধ্যে এটাই বেস্ট।",
+      "Within the budget, this is the best cigarette.",
+      "Derby is the value-performance benchmark for younger smokers."
+    ],
+    [
+      "RM5",
+      "Core equity",
+      "Group",
+      "2166–2174",
+      "কড়া সিগারেট… ধকটা পারফেক্ট।",
+      "A strong cigarette; the kick is right.",
+      "The core sensory promise is a strong, satisfying kick."
+    ],
+    [
+      "RM5",
+      "Odor",
+      "B/D",
+      "2173–2197",
+      "গন্ধটা ঠিক করলে… ৯.৫/১০… অনেকক্ষণ থাকে।",
+      "Fixing the odor would make it nearly 9.5/10; it lingers for a long time.",
+      "Odor is the largest gap in an otherwise highly rated product."
+    ],
+    [
+      "RM5",
+      "Status/occasion",
+      "D",
+      "2307–2310",
+      "ক্যাম্পাসে ডার্বি নিতে পারি না—গন্ধের জন্য।",
+      "I cannot take Derby to campus because of the odor.",
+      "Odor becomes a social-occasion barrier, not just a sensory complaint."
+    ],
+    [
+      "RM5",
+      "Fallback",
+      "D/C/E",
+      "2406–2421",
+      "ডার্বি না থাকলে স্টার… রয়্যালস হালকা, ফিল্টার দুর্বল।",
+      "If Derby is unavailable, Star; Royals is too light and its filter is weak.",
+      "Star is the closest strong-value fallback in this group."
+    ],
+    [
+      "RM5",
+      "Conversion",
+      "B/D",
+      "3369–3376",
+      "ডার্বির কোয়ালিটি, কিন্তু গন্ধ থাকবে না—তাহলে স্থায়ীভাবে শিফট।",
+      "Derby quality without the odor could win a permanent switch.",
+      "The clearest challenger proposition is familiar satisfaction minus odor."
+    ],
+    [
+      "RM5",
+      "Pack vs product",
+      "E",
+      "3417",
+      "প্যাকেটটা কম ম্যাটার করে, কোয়ালিটিটা বেশি ম্যাটার করে।",
+      "The pack matters less; quality matters more.",
+      "Packaging can prompt trial but cannot substitute for product performance."
+    ],
+    [
+      "RM2",
+      "Entry/value",
+      "Group",
+      "1569–1576",
+      "ডার্বির দাম… সাশ্রয়ী… খুবই কড়া… দামও কম আবার কড়া।",
+      "Derby is affordable and very strong—low price with strength.",
+      "Value and strength jointly explain entry."
+    ],
+    [
+      "RM2",
+      "Peer pathway",
+      "Group",
+      "1585–1601",
+      "এইভাবেই শুরু হয়… বন্ধুত্বের সাথে… বন্ধুরা যে ব্র্যান্ড খাইতো।",
+      "It starts through friendship and the brand friends were smoking.",
+      "Social learning precedes habit."
+    ],
+    [
+      "RM2",
+      "Value segment",
+      "Group",
+      "1591",
+      "যাদের টাকা কম… বা সিগারেট বেশি লাগে, তারা ডার্বি খাইত।",
+      "People with less money, or heavier consumption, chose Derby.",
+      "Frequency of consumption amplifies value sensitivity."
+    ],
+    [
+      "RM2",
+      "Habit",
+      "Group",
+      "1617–1621",
+      "ধোঁয়া বেশি… চাহিদা পূরণ… খেতে খেতে অভ্যাস।",
+      "More smoke meets the need, and repeated use becomes habit.",
+      "Smoke volume and routine reinforce stickiness."
+    ],
+    [
+      "RM2",
+      "Odor",
+      "Group",
+      "1631–1644",
+      "৯/১০—গন্ধ একটু বেশি… গন্ধটা একটু কমালে।",
+      "Nine out of ten—the odor is a little high; reduce it.",
+      "Odor is the main reason the product misses a perfect score."
+    ],
+    [
+      "RM2",
+      "Brand image",
+      "Group",
+      "1668–1674",
+      "ডার্বিকে গরিবের বেনসন বলা হয়… বাজেট ফ্রেন্ডলি।",
+      "Derby is called the poor man's Benson—budget friendly.",
+      "Strong value equity coexists with a low-status label."
+    ],
+    [
+      "RM2",
+      "Status/occasion",
+      "Group",
+      "1731",
+      "বড় ভাই… গোল্ড লিফ/বেনসন খাইলে… ডার্বি কেমন লাগে সামনে।",
+      "In front of senior people who smoke Gold Leaf/Benson, Derby can feel awkward.",
+      "Visible occasions can trigger trade-up."
+    ],
+    [
+      "RM2",
+      "Weakness",
+      "Group",
+      "1804–1817",
+      "ফিল্টারটা আরেকটু ভালো… শেষে নরম… গন্ধটা কম।",
+      "Improve the filter; it softens at the end; reduce the odor.",
+      "Filter-end integrity and odor are linked upgrade opportunities."
+    ],
+    [
+      "RM2",
+      "Core equity",
+      "Group",
+      "1909–1916",
+      "বেশি ধোঁয়া… বাজেট অনুযায়ী পারফেক্ট কড়া।",
+      "More smoke; perfectly strong for the budget.",
+      "Derby's distinctive equity is smoke/strength at the price."
+    ],
+    [
+      "RM2",
+      "Availability",
+      "Group",
+      "1991–1992",
+      "গ্রামে গেলেও এই সিগারেটটা পাবেন।",
+      "You can find this cigarette even in villages.",
+      "Distribution is a functional and symbolic brand strength."
+    ],
+    [
+      "RM2",
+      "Price parity",
+      "Group",
+      "2338–2354",
+      "এক টাকা ফ্যাক্ট না… ডার্বি ১০, স্টার ১০ হলে স্টার… রয়্যালস ৮ হলেও ডার্বি ৯-এ থাকবো।",
+      "One taka is not decisive; at Derby 10/Star 10 choose Star, but Derby 9 can beat Royals 8.",
+      "Moderate premium is supportable, but parity with a stronger-status rival is dangerous."
+    ],
+    [
+      "RM2",
+      "Trial trigger",
+      "Group",
+      "2481–2505",
+      "ফিল্টার ভালো, গন্ধ নেই… পোস্টার নয়, কেউ সাজেস্ট করলে।",
+      "Better filter, no odor; recommendation works better than poster copy.",
+      "Credible interpersonal proof reduces trial risk."
+    ],
+    [
+      "RM2",
+      "Conversion",
+      "Group",
+      "2516–2526",
+      "ডার্বির মতো ফিল… সেম প্রাইজে… ফিল্টার কোয়ালিটি ভালো… একটু বেশি ফিল।",
+      "Derby-like feel at the same price, with a better filter and slightly stronger satisfaction.",
+      "A challenger must preserve familiarity while clearly upgrading performance."
+    ]
+  ],
+  "po": [
+    [
+      "PO-D3",
+      "Dhaka; Image Seeker Confident; age 30; SEC E",
+      "Gold Leaf → Derby after price reached ৳12; Derby at ৳6 delivered acceptable Gold Leaf-like flavor.",
+      "Balanced regular strength; no bitterness/cough; lower lingering odor.",
+      "Strong price sensitivity; fallback Royals Regular/Red; would trial a matching regular product.",
+      "Corroborates value-led down-trade and rejection of light/menthol profiles."
+    ],
+    [
+      "R5",
+      "Rajshahi; age 20; SEC D",
+      "Started regular smoking with Derby; popularity and trial converted to habit.",
+      "Dense smoke, strong flavor, refreshing/energizing feel.",
+      "At ৳10 may quit or consider Camel Blue; open to retailer-led trial.",
+      "Corroborates smoke/strength, habit and price vulnerability."
+    ],
+    [
+      "R2-PO",
+      "Rajshahi; age 26; SEC D",
+      "Affordable round-number purchase, availability and personally suitable strength/odor.",
+      "Balanced strong taste, reliable filter, thin paper and steady burn.",
+      "Will absorb small rise; peer proof more important than pack; wants stable ash/burn.",
+      "Corroborates distribution, execution quality and peer-led trial."
+    ],
+    [
+      "PO-D06",
+      "Dhaka; Explorer; age 30; SEC D",
+      "Friends introduced Derby; lower price, longer duration and better filter sustained use.",
+      "Slow burn, smoke volume, moderate-strong delivery and thick low-heat filter.",
+      "Would stay to ৳10–12; Hollywood is main fallback; same-price trial only if product matches/beats Derby.",
+      "Corroborates strength/value, social entry and high inertia when quality holds."
+    ]
+  ]
+}
